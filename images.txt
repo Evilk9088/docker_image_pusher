@@ -1,3 +1,2 @@
-chisbread/transmission
-amilys/embyserver:beta
-kacaukacau/orpheusbetter
+spencerhughes/orpheusbetter:latest
+lambdajamz/orpheusbetter
