@@ -1,3 +1,1 @@
-chisbread/transmission 
-kacaukacau/orpheusbetter 
 amilys/embyserver:beta 
