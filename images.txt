@@ -1,4 +1,3 @@
-nevinee/qbittorrent:4.4.2 
 chisbread/transmission 
 kacaukacau/orpheusbetter 
 amilys/embyserver:beta 
