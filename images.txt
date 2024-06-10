@@ -1,1 +1,1 @@
-amilys/embyserver:beta 
+chisbread/transmission
