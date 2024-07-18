@@ -1,2 +1,1 @@
-spencerhughes/orpheusbetter:latest
-lambdajamz/orpheusbetter
+ghcr.io/schaka/red-oxide-docker:latest
