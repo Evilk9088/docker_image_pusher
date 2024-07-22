@@ -1,1 +1,2 @@
-ghcr.io/schaka/red-oxide-docker:latest
+gotson/redbetter
+
